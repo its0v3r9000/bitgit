@@ -1,0 +1,5 @@
+#Git
+
+* initialize our repo: one time only!
+
+cd into directory
